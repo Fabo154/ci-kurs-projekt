@@ -16,7 +16,7 @@
 					<configuration>
 						<archive>
 							<manifest>
-								<mainClass>Start.java</mainClass>
+								<mainClass>de.schulung.samples.Start</mainClass>
 							</manifest>
 						</archive>
 					</configuration>
