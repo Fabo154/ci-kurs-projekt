@@ -31,7 +31,7 @@
 					<configuration>
 						<archive>
 							<manifest>
-								<mainClass>Start</mainClass>
+								<mainClass>Start.java</mainClass>
 							</manifest>
 						</archive>
 					</configuration>
